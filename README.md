@@ -1,3 +1,3 @@
 # signUp
 
-B asic login and signup form.
+Basic login and signup form.
